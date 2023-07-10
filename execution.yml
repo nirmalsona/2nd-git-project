@@ -7,3 +7,4 @@ docker service status
 docker pull ubuntu
 docker pull centos
 docker pull nginx
+
