@@ -1,3 +1,4 @@
 sudo docker pull centos
 sudo docker pull nginx
+sudo reboot
 
